@@ -1,4 +1,4 @@
-# Olá, mundo! Sou [Seu Nome] 👋
+# Olá, mundo! Sou Victor Felipe 👋
 
 ### 👨‍💻 Sobre Mim
 Sou [Sua Profissão, Ex: Desenvolvedor Full-Stack, Analista de Dados, Engenheiro de Software] com paixão por [Sua Área de Paixão, Ex: criar soluções inovadoras, resolver problemas complexos, automação].
@@ -19,21 +19,30 @@ Aqui estão as principais tecnologias com as quais trabalho:
 * **Bancos de Dados:** `MySQL`, `PostgreSQL`, `MongoDB`, `SQLite`
 * **Cloud & DevOps:** `AWS`, `Docker`, `Git`, `CI/CD`
 
-> **Dica:** Use ícones para deixar essa seção mais visual e divertida. Existem sites como o [shields.io](https://shields.io/) ou bibliotecas de ícones de tecnologia que você pode usar para gerar as imagens.
-
 ---
 
 ### 📊 Estatísticas do GitHub
 
-> **Dica:** Adicionar estatísticas dinâmicas mostra sua atividade no GitHub de forma automática. Você pode usar ferramentas como o [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) para gerar essas imagens. Basta seguir as instruções no repositório deles para copiar e colar o código no seu `README`.
+![Estatísticas do seu GitHub](https://github-readme-stats.vercel.app/api?username=victorfelipesl&show_icons=true&theme=default)
 
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=[victorfelipesl]&show_icons=true&theme=default)
+---
+
+### 💻 Linguagens Mais Usadas
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=victorfelipesl&layout=compact&theme=default)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=victorfelipesl&theme=default&hide_border=true)
 
 ---
 
 ### 🔗 Conecte-se comigo
 
 * **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/[seu-perfil-do-linkedin])
-* **Email:** [seu.email@exemplo.com](mailto:victorfelipe1823@gmail.com)
+* **Portfólio/Website:** [Seu Portfólio](https://[seu-site.com])
+* **Email:** victorfelipe1823@gmail.com
 
 ---
